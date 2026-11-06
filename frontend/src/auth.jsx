@@ -2,7 +2,7 @@
 import { useState } from "react";
 import axios from "axios";
 import { BookOpen, Eye, EyeOff, Lock, Mail, User, Sparkles } from "lucide-react";
-import "./Auth.css";
+import "./auth.css";
 
 const API = "http://localhost:5000/api/auth";
 
