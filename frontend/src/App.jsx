@@ -1083,4 +1083,4 @@ function App() {
   );
 }
 
-export default Auth;
+export default App;
