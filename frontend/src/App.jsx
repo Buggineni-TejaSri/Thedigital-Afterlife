@@ -21,7 +21,7 @@ import {
   MessageCircle,
   Send
 } from "lucide-react";
-import Auth from "./Auth";
+import Auth from "./auth";
 import "./App.css";
 
 const API = "http://localhost:5000/api";
